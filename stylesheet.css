@@ -1,0 +1,88 @@
+<style type='text/css'>
+    body {
+        background-color:#4286f4;
+   }
+@font-face {
+    font-family: MontFont;
+    src: url(Montserrat-Light.otf);
+}
+    h1 {
+        text-align: center;
+        font-family: MontFont;
+        font-size: 350%;
+        color:#00bfff
+        
+    }
+    p {
+        margin-left: 100px;
+        margin-right: 100px;
+        text-align: center;
+        font-family: MontFont;
+        font-size: 150%;
+        color: #00bfff;
+    }
+    a:link {
+    color: #1e90ff;
+    background-color: transparent; 
+    text-decoration: none;
+    text-decoration: underline;
+}
+
+	a:visited {
+    color: #1e90ff;
+    background-color: transparent;
+    text-decoration: none;
+    text-decoration: underline;
+}
+
+	a:hover {
+    color: #1e90ff;
+    background-color: transparent;
+    text-decoration: underline;
+
+	}
+
+	a:active {
+    color: #1e90ff;
+    background-color: transparent;
+    text-decoration: underline;
+	}
+    
+    .devpostMark { 
+        margin-left: 40%;
+        margin-top: 45%;
+        width: 400px;
+    }
+
+    .gitMark {
+        float: left;
+        margin-left: 40%;
+        margin-top: 45%;
+        width: 400px;
+        }
+
+    .LinkedInMark {
+        margin-left: 40%;
+        margin-top: 45%;
+        width: 400px;
+    }
+
+    .devpostLogo { 
+        margin-left: 40%;
+        margin-top: 0%;
+        width: 400px;
+    }
+
+    .gitLogo {
+        float: left;
+        margin-left: 40%;
+        margin-top: 0%;
+        width: 400px;
+        }
+
+    .LinkedInLogo {
+        
+        margin-left: 40%;
+        margin-top: 0%;
+        width: 400px;
+    }
